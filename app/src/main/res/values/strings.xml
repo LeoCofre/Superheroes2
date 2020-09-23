@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="biography">biograpy</string>
+    <string name="appearance">appearance</string>
+    <string name="powerstats">Powerstats</string>
+    <string name="nombre_de_heroe">Nombre de Héroe</string>
+</resources>
